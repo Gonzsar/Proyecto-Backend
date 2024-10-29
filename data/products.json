@@ -1,0 +1,11 @@
+{
+    "id": "1",
+    "title": "Producto de prueba",
+    "description": "Descripción del producto",
+    "code": "12345",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Categoría de prueba",
+    "thumbnails": []
+}
