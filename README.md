@@ -10,3 +10,10 @@ Un servidor backend con Node.js, Express y MongoDB que gestiona productos y carr
 3. Instalar dependencias:
    ```bash
    npm install
+
+## Uso
+
+Para iniciar el servidor, ejecuta:
+```bash
+npm start
+```
