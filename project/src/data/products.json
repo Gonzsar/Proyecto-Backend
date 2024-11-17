@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "Manzanas",
+        "description": "Manzanas frescas y jugosas",
+        "price": 50,
+        "stock": 100,
+        "category": "Frutas",
+        "thumbnails": ["url1.jpg"]
+    }
+]
